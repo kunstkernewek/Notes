@@ -1,13 +1,9 @@
 name: Your Blog
-tagline: Things you talk about
+tagline: Revealing the process behind making Cornish electronic art since 1999
 url: https://kunstkernewek.github.io/Notes
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
-
-
-# More options available to customize the website
-# read on https://rochacbruno.github.io/marmite/tag/customization.html
+  - ["CV", "https://os.koe.pt"]
+  - ["Github", "https://github.com/oscott"]
